@@ -1,8 +1,0 @@
-C:\Users\ademc\OneDrive\Masaüstü\BatuKurs\ConsoleApp18\bin\Debug\ConsoleApp18.exe.config
-C:\Users\ademc\OneDrive\Masaüstü\BatuKurs\ConsoleApp18\bin\Debug\ConsoleApp18.exe
-C:\Users\ademc\OneDrive\Masaüstü\BatuKurs\ConsoleApp18\bin\Debug\ConsoleApp18.pdb
-C:\Users\ademc\OneDrive\Masaüstü\BatuKurs\ConsoleApp18\obj\Debug\ConsoleApp18.csproj.AssemblyReference.cache
-C:\Users\ademc\OneDrive\Masaüstü\BatuKurs\ConsoleApp18\obj\Debug\ConsoleApp18.csproj.CoreCompileInputs.cache
-C:\Users\ademc\OneDrive\Masaüstü\BatuKurs\ConsoleApp18\obj\Debug\ConsoleApp18.exe
-C:\Users\ademc\OneDrive\Masaüstü\BatuKurs\ConsoleApp18\obj\Debug\ConsoleApp18.pdb
-C:\Users\ademc\OneDrive\Masaüstü\BatuKurs\ConsoleApp18\obj\Debug\ConsoleApp18.exe.config
